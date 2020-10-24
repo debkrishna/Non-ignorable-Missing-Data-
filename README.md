@@ -1,0 +1,2 @@
+# Non-ignorable-Missing-Data-
+This is a missing data problem. First, We are have gnerated y and x value. Then we are performing regression analysis.  Secondly, MISSING DATA MECHANISM: if the values of x is positive then the prob of missing x is 0.5; Then we are performing regression analysis again. We are going to comapare above two processes by Relative BIAS and Relative Mean squared Error of regression coefficient.  Here missing data mechanism neither Missing Completely at Random(MCAR) nor Missing at Random(MAR). Consequently this is a non-ignorable missing data problem.
